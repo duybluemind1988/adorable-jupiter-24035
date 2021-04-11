@@ -32,7 +32,7 @@ header:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/Duy_sky10'
       style: icon
       icon_class: twitter
       new_window: true
@@ -42,12 +42,12 @@ header:
       icon_class: instagram
       new_window: true
     - label: GitHub
-      url: 'https://github.com/'
+      url: 'https://github.com/duybluemind1988'
       style: icon
       icon_class: github
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: 'https://www.linkedin.com/in/duy-ngoc-nguyen-a0513797/'
       style: icon
       icon_class: linkedin
       new_window: true
