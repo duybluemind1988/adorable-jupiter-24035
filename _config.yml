@@ -9,7 +9,7 @@ palette: blue
 header:
   title: Data Science
   tagline: Nguyen Ngoc Duy
-  profile_img: images/avatar.png
+  profile_img: images/dnn_avatar.jpeg
   profile_img_alt: Author avatar
   background: dark
   has_nav: true
