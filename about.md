@@ -1,7 +1,7 @@
 ---
-title: About Me (DNN)
+title: About Me (Nguyen Ngoc Duy)
 subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+#img_path: images/1.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
@@ -32,12 +32,36 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I'm  a Data Scientist in Ho Chi Minh city, Viet Nam. I have some experiences in applying data science to some important domains such as: manufacturing, marketing, finance.... I create this blog to share my experience regarding to data science projects and how to learn it faster. More details about me:
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+- My favorite programing languages: R and Python. I often use R for preprocessing data, visualization, statistical analysis, web app development (shiny) and Python for machine leanring and deep learning application
+- My favorite data science project: anormaly detection (fraud), time seriese forecasting, predict customer retention, develop end to end data analytic web app (full stack)
+- My hobbies: reading, attend DS/AI conferrence
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+If you have any feedback about my posts, please share with me (email: bluemind1988@gmail.com). 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+*Never stop learning and sharing !*
 
-*Thank You for reading!*
+## Bonus:
+
+My work has been made easier by using the many open source libraries below, I would like to thank the developers who wrote these great libraries:
+
+### Python open source packages:
+<img src="/images/about/python_package.jpg" width="500">
+<img src="/images/about/dask.png" width="200">
+<img src="/images/about/plotly.png" width="200">
+<img src="/images/about/lightgbm.png" width="200">
+<img src="/images/about/streamlit.png" width="200">
+<img src="/images/about/pyspark.jpeg" width="200">
+<img src="/images/about/prophet.png" width="200">
+
+### R open source packages:
+<img src="/images/about/tidyverse.png" width="600">
+The Tidymodels
+<img src="/images/about/tidymodels.jpg" width="500">
+<img src="/images/about/modeltime_ecosystem.jpg" width="500">
+<img src="/images/about/data_table.png" width="200">
+<img src="/images/about/rshiny_logo.png" width="200">
+<img src="/images/about/tidyquant-logo.png" width="200">
+<img src="/images/about/h2o.png" width="200">
+<img src="/images/about/highchart.jpg" width="300">
